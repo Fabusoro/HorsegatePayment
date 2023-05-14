@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xd6LaQC+5UwGiWQ15pvB9ii2ZL6wZScF+nepqIY97Xo=",
+  "Source": "PaymentManagement.Api",
+  "BasePath": "_content/PaymentManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
